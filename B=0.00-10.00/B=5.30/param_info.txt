@@ -1,0 +1,2 @@
+PARAM value: 0.53
+B value: 5.30
